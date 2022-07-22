@@ -1,13 +1,10 @@
 Privacy Policy
 
 
-[DEVELOPER_NAME] ("developer") built the [APPNAME] app as an Ad Supported app. This SERVICE
-("app") is provided by at no cost and is intended for use as is:
-  OR
-as is:
-[link to TERAMS AND CONDITIONS]).
+developer built the TanxNoGame app as an Ad Supported app. This 
+app is provided by at no cost and is intended for use as is:
 
-This privacy policy is used to inform you regarding policies with the collection, use, and 
+his privacy policy is used to inform you regarding policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use this Service.
 
 
@@ -21,7 +18,6 @@ Links to privacy policies of third party service providers used in the app
 
 Google Play Services    https://www.google.com/policies/privacy/
 AdMob                   https://support.google.com/admob/answer/6128543
-
 
 2.) Sharing Your Information
 
@@ -116,7 +112,6 @@ actions.
 
 The only official channel for distribution of this app are:
 * Google Play Store                https://play.google.com/
-* XDA Developers Android Forum     https://www.xda-developers.com/
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
