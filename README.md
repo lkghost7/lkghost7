@@ -127,4 +127,4 @@ Contact me
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.
 
-[CONTACT]
+lkghost9@gmail.com
